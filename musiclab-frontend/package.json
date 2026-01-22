@@ -1,5 +1,5 @@
 {
-  "name": "musiclab",
+  "name": "musiclab-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
